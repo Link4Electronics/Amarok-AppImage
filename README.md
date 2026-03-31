@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Amarok-AppImage)](https://github.com/pkgforge-dev/Amarok-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://invent.kde.org/multimedia/amarok/-/blob/master/images/amarok_icon.svg?ref_type=heads" width="128" />
+  <img src="https://invent.kde.org/multimedia/amarok/-/raw/master/images/amarok_icon.svg?ref_type=heads" width="128" />
 </p>
 
 
