@@ -11,6 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/amarok/images/amarok_icon.svg
 export DESKTOP=/usr/share/applications/org.kde.amarok.desktop
 export DEPLOY_QT=1
+export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/amarok /usr/bin/amarok_afttagger /usr/bin/amarokcollectionscanner
